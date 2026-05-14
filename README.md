@@ -1,15 +1,16 @@
 <div align="center">
 
 ```
- ____  _    ___ _  ____  _ ____    __  __ _    
-/ ___|/ \  |_ _| |/ / | | |  _ \  |  \/  | |   
-\___ / _ \  | || ' /| | | | |_) | | |\/| | |   
- ___/ ___ \ | || . \| |_| |  _ <  | |  | | |___
-|____/_/  \_\___|_|\_\\___/|_| \_\ |_|  |_|_____|
+_____         _____ _  ___    _ __  __          _____  
+ / ____|  /\   |_   _| |/ / |  | |  \/  |   /\   |  __ \ 
+| (___   /  \    | | | ' /| |  | | \  / |  /  \  | |__) |
+ \___ \ / /\ \   | | |  < | |  | | |\/| | / /\ \ |  _  / 
+ ____) / ____ \ _| |_| . \| |__| | |  | |/ ____ \| | \ \ 
+|_____/_/    \_\_____|_|\_\\____/|_|  |_/_/    \_\_|  \_\
 ```
 
 ### Saikumar Potturi
-**AI/ML Engineer · Computer Vision · Full-Stack**
+**AI/ML Engineer · Computer Vision ·WebDev**
 
 *Building things that actually work.*
 
@@ -26,18 +27,18 @@
 
 B.Tech AI & ML @ Woxsen University, Hyderabad `2023 – 2027`
 
-I build production-grade AI systems — computer vision pipelines, multi-agent architectures, and full-stack apps that go beyond notebooks.
-**3rd place** at the AgentX national hackathon. Holder of a **Government of India registered design patent**.
+AI & ML engineer passionate about building production-grade AI systems — from computer vision pipelines to scalable web development intelligent applications. Holder of a **Government of India registered design patent**, with a strong focus on turning cutting-edge AI into real-world, deployable solutions.
+
 
 ```python
-current_focus   = ["Multi-agent AI systems", "Computer Vision", "Full-stack deployment"]
+current_focus   = ["Multi-agent AI systems", "Computer Vision", "Web deployment"]
 always_building = True
 open_to         = ["Internships", "Collabs", "Interesting problems"]
 ```
 
 ---
 
-## ↳ tech stack
+## ↳ Tech stack
 
 **Languages**
 
@@ -72,7 +73,7 @@ open_to         = ["Internships", "Collabs", "Interesting problems"]
 
 ---
 
-## ↳ selected projects
+## ↳ Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -84,7 +85,7 @@ open_to         = ["Internships", "Collabs", "Interesting problems"]
 
 ---
 
-## ↳ patent
+## ↳ Patent
 
 > **Agriculture Soil Monitoring AI-Drone Device**
 > Registered Design Patent · Government of India · Apr 2025
@@ -92,22 +93,16 @@ open_to         = ["Internships", "Collabs", "Interesting problems"]
 
 ---
 
-## ↳ certifications
+## ↳ Certifications
 
 - Machine Learning Specialization — *Coursera (Andrew Ng)*
 - Google Advanced Data Analytics Professional Certificate — *Google / Coursera*
 - AWS Machine Learning Foundations — *AWS Academy*
 - Operating Systems Specialization — *Coursera*
+- Claude 101 - *ANTHROP\C*
 
 ---
 
-## ↳ github stats
-
-<div align="center">
-
-![Saikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiiiKumarrr05&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiiiKumarrr05&layout=compact&theme=default&hide_border=true&count_private=true)
 
 </div>
 
