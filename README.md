@@ -23,7 +23,7 @@ _____         _____ _  ___    _ __  __          _____
 
 ---
 
-## ↳ about
+## ↳ About
 
 B.Tech AI & ML @ Woxsen University, Hyderabad `2023 – 2027`
 
