@@ -10,7 +10,7 @@ _____         _____ _  ___    _ __  __          _____
 ```
 
 ### Saikumar Potturi
-**AI/ML Engineer · Computer Vision ·WebDev**
+**AI/ML Engineer · Computer Vision · WebDev**
 
 *Building things that actually work.*
 
