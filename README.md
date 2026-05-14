@@ -106,8 +106,4 @@ open_to         = ["Internships", "Collabs", "Interesting problems"]
 
 </div>
 
----
 
-<div align="center">
-<sub>Made with intent, not templates.</sub>
-</div>
