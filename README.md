@@ -100,6 +100,7 @@ open_to         = ["Internships", "Collabs", "Interesting problems"]
 - AWS Machine Learning Foundations — *AWS Academy*
 - Operating Systems Specialization — *Coursera*
 - Claude 101 - *ANTHROP\C*
+- Foundations of AI - OpenAI
 
 ---
 
